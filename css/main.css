@@ -1,12 +1,13 @@
 /* ***********SECTION 1******** */
 .header{
+    margin-top: 10px;
     border: 1px solid grey;
     width: 100%;
     height: 20vh;
     background: grey;
 }
 .sub-header{
-    margin-top: 10px;
+    margin-top: 15px;
     border: 1px solid gray;
     width: 40%;
     height: 10vh;
