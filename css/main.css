@@ -1,0 +1,33 @@
+.title-1 {
+  width: 20%;
+  height: 15px;
+  background-color: #9A9A9A;
+}
+
+.title-2 {
+  width: 80%;
+  height: 40px;
+  background-color: #333333;
+}
+
+.line-1, .line-2, .line-3 {
+  width: 100%;
+  margin: 5px 0;
+}
+
+.line-1, .line-2 {
+  height: 10px;
+}
+
+.line-3 {
+  height: 25px;
+  background-color: #CCCCCC;
+}
+
+.line-1 {
+  background-color: #555555;
+}
+
+.line-2 {
+  background-color: #775555;
+}
