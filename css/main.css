@@ -3,15 +3,17 @@
     border: 1px solid grey;
     width: 100%;
     height: 20vh;
-    background: grey;
+    background: #CCCCCC;
 }
+
 .sub-header{
     margin-top: 15px;
     border: 1px solid gray;
     width: 40%;
     height: 10vh;
-    background: gray;
+    background: #9A9A9A;
 }
+
 .content{
     margin-top: 15px;
     width: 100%;
@@ -31,7 +33,7 @@
     border: 1px solid grey;
     width: 68%;
     height: 5vh;
-    background: grey;
+    background: #555555;
 }
 
 .gray-line1{
@@ -40,12 +42,12 @@
     border: 1px solid grey;
     width: 68%;
     height: 5vh;
-    background: grey;
+    background: #555555;
 }
 
 .image{
     border: 1px solid grey;
-    background: grey;
+    background: #9A9A9A;
     height: 65vh;
     width: 30%;
     float: right;
