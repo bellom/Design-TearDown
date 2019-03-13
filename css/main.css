@@ -64,7 +64,6 @@ html, body {
   grid-area: nav7;
 }
 
-
 .main_container {
   margin-top: 0.1px;
   width: 100%;
@@ -145,6 +144,12 @@ section {
   text-align: left;
   padding: 300px 0 0 30px;
 }
+
+.sub-content{
+  clear: both;
+}
+
+
 
 /* NEW WORK */
 .latest-posts-title {
