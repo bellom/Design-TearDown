@@ -79,6 +79,10 @@ section {
   width: 100%;
 }
 
+section h1 {
+  display: none;
+}
+
 .title-container {
   margin-top: 50px;
   position: absolute;
